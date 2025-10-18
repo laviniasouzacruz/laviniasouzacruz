@@ -11,13 +11,12 @@
 
 <img align="right" height="130" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div><br>
+<p align="left" style="display: flex; align-items: center; gap: 12px; flex-wrap: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</p>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lavinia-souza-cruz-303198282/" target="_blank" style="outline:none;">
