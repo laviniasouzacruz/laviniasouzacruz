@@ -4,11 +4,10 @@
 
 ---
 
-Sou <b>Lavinia Souza Cruz</b>, tenho 16 anos e estudo <b>Técnico em Informática para Internet</b> no <b>IFPR – Campus Telêmaco Borba</b>. Tenho experiência em Design Gráfico, Marketing Digital e estou aprimorando minhas habilidades em Programação. Atualmente, sou <b>bolsista do Programa Meninas Digitais</b>, iniciativa da <b>Sociedade Brasileira de Computação (SBC)</b>, que incentiva meninas e mulheres a se engajarem na computação por meio de oficinas, minicursos e palestras.<br><br>
-
-Sou <b>proativa, comunicativa e aprendo rapidamente</b>, adoro desafios, tenho <b>facilidade de identificar problemas</b> e estou sempre <b>aprimorando meus conhecimentos</b>. Sou <b>dedicada, organizada e determinada</b>, me adapto facilmente a novas situações e busco contribuir de forma significativa em tudo que faço.
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laviniasouzacruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniasouzacruz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
 
@@ -19,8 +18,6 @@ Sou <b>proativa, comunicativa e aprendo rapidamente</b>, adoro desafios, tenho <
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div><br>
-
-
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
