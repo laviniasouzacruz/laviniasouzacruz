@@ -5,7 +5,10 @@
 
 ---
 
-Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informática para Internet no Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba.  <br>Tenho experiência na área de Design Gráfico e Marketing Digital, e atualmente estou aprimorando minhas competências e habilidades em Programação. <br>Participo de um projeto nacional chamado Meninas Digitais, que tem como objetivo empoderar as mulheres no mundo da tecnologia e da programação.  <br>Sou uma pessoa proativa, comunicativa e aprendo de maneira muito rápida.
+Sou Lavinia Souza Cruz, tenho 16 anos e estudo <b>Técnico em Informática para Internet</b> no <b>IFPR – Campus Telêmaco Borba</b>. Tenho experiência em Design Gráfico e Marketing Digital, e atualmente estou expandindo minhas habilidades em Programação, buscando sempre aprender e aplicar novos conhecimentos na prática. Atualmente, sou <b>bolsista do Programa Meninas Digitais</b>, iniciativa da <b>Sociedade Brasileira de Computação (SBC)</b>, que incentiva meninas e mulheres a se engajarem na área de computação através de oficinas, minicursos, palestras e atividades educativas.  
+
+Sou uma pessoa <b>proativa, comunicativa e que aprende de maneira muito rápida</b>, adoro desafios, tenho <b>facilidade de identificar problemas</b> e estou sempre <b>aprimorando meus conhecimentos para solucioná-los</b>. Gosto muito de <b>organização e de trabalhar em projetos</b>, sou <b>muito dedicada</b>, me adapto a novas situações com facilidade e absorvo <b>conhecimentos com muita facilidade</b>. Além disso, minha dedicação e disciplina me permitem ser <b>determinada e focada
+
 
 ---
 
@@ -19,7 +22,7 @@ Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informátic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -27,4 +30,4 @@ Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informátic
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
+---
