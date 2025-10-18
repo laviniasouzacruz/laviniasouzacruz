@@ -1,56 +1,42 @@
-<!-- Animação digitando -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=500&lines=Hello+world,+I'm+Lavinia;I'm+a+junior+developer." alt="Typing SVG" />
-</p>
+<p align="left">Oi! Eu sou a Lavínia Souza Cruz, estudante de Informática no IFPR, apaixonada por tecnologia, programação e desenvolvimento de sistemas 💻✨</p>
 
-<!-- Avatar / coração tech -->
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="150px" alt="Heart Tech Icon"/>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laviniasouzacruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de status"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniasouzacruz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens"  />
+</div>
 
-### 👩‍💻 Sobre mim
-Sou **Lavinia Souza Cruz**, tenho **16 anos** e atualmente curso **Técnico em Informática para Internet** no **Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba**.  
-Tenho experiência na área de **Design Gráfico** e **Marketing Digital**, e atualmente estou aprimorando minhas competências e habilidades em **Programação**.  
+###
 
-Participo de um projeto nacional chamado **Meninas Digitais**, que tem como objetivo **empoderar as mulheres no mundo da tecnologia e da programação**.  
-Sou uma pessoa **proativa, comunicativa** e **aprendo de maneira muito rápida**. ❤️‍🔥  
+<img align="right" height="150" src="https://i.pinimg.com/originals/5e/ff/5d/5eff5ddc2b5a9b620dc163e60c19fc39.gif"  />
 
----
+###
 
-### 💻 Linguagens e Tecnologias
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-A32C2C?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-B22222?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Logo JavaScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="Logo HTML5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="Logo CSS3"  />
+</div>
 
----
+###
 
-### 🌐 Contatos
-<p align="center">
-  <a href="https://www.instagram.com/lavysouzac/">
-    <img src="https://img.shields.io/badge/Instagram-A32C2C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/laviniasouzacruz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7A1F2B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
-  <a href="https://www.linkedin.com/in/lavinia-souza-cruz-303198282/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:laviniasouzacruz@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7A1F2B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="mailto:lavinia.souza.ifpr2024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.instagram.com/laviniasouzacruz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7A1F2B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"  />
   </a>
-</p>
-<!--
-**laviniasouzacruz/laviniasouzacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/laviniasouzacruz/laviniasouzacruz/output/snake.svg" alt="Animação Snake" />
