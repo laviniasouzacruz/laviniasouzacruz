@@ -5,7 +5,7 @@
 
 ---
 
-<align="left">Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informática para Internet no Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba.  <br>Tenho experiência na área de Design Gráfico e Marketing Digital, e atualmente estou aprimorando minhas competências e habilidades em Programação.  <br><br>Participo de um projeto nacional chamado Meninas Digitais, que tem como objetivo empoderar as mulheres no mundo da tecnologia e da programação.  <br>Sou uma pessoa proativa, comunicativa e aprendo de maneira muito rápida.
+Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informática para Internet no Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba.  <br>Tenho experiência na área de Design Gráfico e Marketing Digital, e atualmente estou aprimorando minhas competências e habilidades em Programação. <br>Participo de um projeto nacional chamado Meninas Digitais, que tem como objetivo empoderar as mulheres no mundo da tecnologia e da programação.  <br>Sou uma pessoa proativa, comunicativa e aprendo de maneira muito rápida.
 
 ---
 
