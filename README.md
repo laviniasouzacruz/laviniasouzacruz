@@ -1,13 +1,6 @@
 <p align="center">
-  <!-- Primeira linha, digita só uma vez -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=5000&color=FF3B3B&center=true&vCenter=true&width=900&lines=Hello+World,+I+am+Lavinia,+and+welcome+to+my+GitHub!" alt="Typing SVG" />
-  <br>
-  <!-- Segunda linha, loop infinito -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&duration=3000&repeat=true&color=FF3B3B&center=true&vCenter=true&width=900&lines=I+am+Junior+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&duration=3000&color=FF3B3B&center=true&vCenter=true&width=900&lines=Hello+World,+I+am+Lavinia,+and+welcome+to+my+GitHub!;I+am+Junior+Developer." alt="Typing SVG" />
 </p>
-
-
-
 
 ---
 
