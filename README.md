@@ -1,10 +1,17 @@
-<h4 align="left">Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informática para Internet no Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba.  <br>Tenho experiência na área de Design Gráfico e Marketing Digital, e atualmente estou aprimorando minhas competências e habilidades em Programação.  <br><br>Participo de um projeto nacional chamado Meninas Digitais, que tem como objetivo empoderar as mulheres no mundo da tecnologia e da programação.  <br>Sou uma pessoa proativa, comunicativa e aprendo de maneira muito rápida.</h4>
+<!-- Animação digitando -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=500&lines=Hello+world,+I'm+Lavinia;I'm+a+junior+developer." alt="Typing SVG" />
+</p>
 
-###
+---
+
+<align="left">Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informática para Internet no Instituto Federal do Paraná (IFPR) – Campus Telêmaco Borba.  <br>Tenho experiência na área de Design Gráfico e Marketing Digital, e atualmente estou aprimorando minhas competências e habilidades em Programação.  <br><br>Participo de um projeto nacional chamado Meninas Digitais, que tem como objetivo empoderar as mulheres no mundo da tecnologia e da programação.  <br>Sou uma pessoa proativa, comunicativa e aprendo de maneira muito rápida.
+
+---
 
 <img align="right" height="150" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
