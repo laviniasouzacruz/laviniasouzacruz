@@ -5,11 +5,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laviniasouzacruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=laviniasouzacruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laviniasouzacruz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
+<img align="right" height="140" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
