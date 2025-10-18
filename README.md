@@ -11,8 +11,6 @@ Sou Lavinia Souza Cruz, tenho 16 anos e atualmente curso Técnico em Informátic
 
 <img align="right" height="150" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif"  />
 
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
