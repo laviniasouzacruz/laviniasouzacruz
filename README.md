@@ -25,7 +25,7 @@
   <a href="https://br.linkedin.com/in/lavinia-souza-cruz-303198282" target="_blank" style="outline:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="[mailto:lavinia.souza.ifpr2024@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lavinia.souza.ifpr2024@gmail.com&su=Ol%C3%A1%20Lavinia&body=Oi%20Lavinia%2C%0A%0AQuero%20entrar%20em%20contato%20com%20voc%C3%AA.)" target="_blank" style="outline:none;">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=lavinia.souza.ifpr2024@gmail.com&su&body=Ol%C3%A1,+Lavinia.%0AGostaria+de+entrar+em+contato+com+voc%C3%AA..." target="_blank" style="outline:none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/lavysouzac/" target="_blank" style="outline:none;">
