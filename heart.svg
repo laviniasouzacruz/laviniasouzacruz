@@ -9,13 +9,14 @@
       <feGaussianBlur stdDeviation="2.2"/>
     </filter>
   </defs>
-  <g>
+  <style>
+    .heart { transform-box: fill-box; transform-origin: center; animation: heartbeat 1.3s ease-in-out infinite; }
+    @keyframes heartbeat { 0%, 100% { transform: scale(1); } 16% { transform: scale(1.055); } 32% { transform: scale(1); } 48% { transform: scale(1.025); } }
+  </style>
+  <g class="heart">
     <path d="M75 126 C64 116 22 86 22 53 C22 25 55 16 75 41 C95 16 128 25 128 53 C128 86 86 116 75 126Z" fill="#C40404" opacity=".18" filter="url(#soft)"/>
-    <g>
-      <path d="M75 121 C64 111 25 83 25 53 C25 29 54 19 75 43 C96 19 125 29 125 53 C125 83 86 111 75 121Z" fill="url(#red)"/>
-      <path d="M39 51 C39 39 48 32 59 34" fill="none" stroke="#F8EBEB" stroke-width="5" stroke-linecap="round" opacity=".85"/>
-      <path d="M39 63 C42 80 58 94 69 102" fill="none" stroke="#F8EBEB" stroke-width="2.5" stroke-linecap="round" opacity=".45"/>
-    </g>
-    <animateTransform attributeName="transform" type="scale" values="1;1.055;1;1.025;1" keyTimes="0;0.16;0.32;0.48;1" dur="1.25s" repeatCount="indefinite" additive="sum"/>
+    <path d="M75 121 C64 111 25 83 25 53 C25 29 54 19 75 43 C96 19 125 29 125 53 C125 83 86 111 75 121Z" fill="url(#red)"/>
+    <path d="M39 51 C39 39 48 32 59 34" fill="none" stroke="#F8EBEB" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+    <path d="M39 63 C42 80 58 94 69 102" fill="none" stroke="#F8EBEB" stroke-width="2.5" stroke-linecap="round" opacity=".45"/>
   </g>
 </svg>
