@@ -11,7 +11,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/laviniasouzacruz/laviniasouzacruz/main/heart.svg"  />
+<img data-importer="image" align="right" height="150" width="150" src="https://media1.tenor.com/m/iqghvBXG81gAAAAd/pixel-heart.gif" alt="Coração vermelho animado" />
 
 ###
 
