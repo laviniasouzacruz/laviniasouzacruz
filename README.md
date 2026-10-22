@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/laviniasouzacruz/laviniasouzacruz/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/laviniasouzacruz/laviniasouzacruz/snake-output/snake.svg?v=red2" alt="Snake animation" />
 
 ###
 
