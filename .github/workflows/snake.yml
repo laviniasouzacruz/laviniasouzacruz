@@ -15,11 +15,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake
+      - name: Generate red contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: "dist/snake.svg?color_snake=%23C40404&color_dots=%23F8EBEB,%23F5C6CB,%23E87979,%23D63333,%23C40404"
+          outputs: |
+            dist/snake.svg?color_snake=%23C40404&color_dots=%23F8EBEB,%23F5C6CB,%23E87979,%23D63333,%23C40404
 
       - name: Publish snake animation
         uses: peaceiris/actions-gh-pages@v4
