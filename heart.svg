@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" fill="none"/>
+  <g transform="translate(10 10)">
+    <g shape-rendering="crispEdges">
+      <rect x="20" y="20" width="20" height="10" fill="#F5C6CB"/>
+      <rect x="40" y="10" width="20" height="20" fill="#F5C6CB"/>
+      <rect x="60" y="10" width="20" height="20" fill="#E87979"/>
+      <rect x="80" y="20" width="10" height="10" fill="#C40404"/>
+      <rect x="10" y="30" width="20" height="20" fill="#F5C6CB"/>
+      <rect x="30" y="30" width="20" height="20" fill="#E87979"/>
+      <rect x="50" y="30" width="20" height="20" fill="#C40404"/>
+      <rect x="70" y="30" width="20" height="20" fill="#C40404"/>
+      <rect x="90" y="30" width="10" height="10" fill="#C40404"/>
+      <rect x="10" y="50" width="20" height="20" fill="#E87979"/>
+      <rect x="30" y="50" width="20" height="20" fill="#C40404"/>
+      <rect x="50" y="50" width="20" height="20" fill="#C40404"/>
+      <rect x="70" y="50" width="20" height="20" fill="#D63333"/>
+      <rect x="20" y="70" width="20" height="10" fill="#D63333"/>
+      <rect x="40" y="70" width="20" height="10" fill="#C40404"/>
+      <rect x="60" y="70" width="20" height="10" fill="#C40404"/>
+      <rect x="30" y="80" width="20" height="10" fill="#C40404"/>
+      <rect x="50" y="80" width="20" height="10" fill="#C40404"/>
+      <rect x="40" y="90" width="20" height="10" fill="#C40404"/>
+    </g>
+    <animateTransform attributeName="transform" type="scale" values="1;1.07;1;0.96;1" keyTimes="0;0.18;0.36;0.52;1" dur="1.4s" repeatCount="indefinite" additive="sum"/>
+  </g>
+</svg>
