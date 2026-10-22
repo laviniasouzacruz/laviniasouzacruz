@@ -1,27 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
-  <rect width="120" height="120" fill="none"/>
-  <g transform="translate(10 10)">
-    <g shape-rendering="crispEdges">
-      <rect x="20" y="20" width="20" height="10" fill="#F5C6CB"/>
-      <rect x="40" y="10" width="20" height="20" fill="#F5C6CB"/>
-      <rect x="60" y="10" width="20" height="20" fill="#E87979"/>
-      <rect x="80" y="20" width="10" height="10" fill="#C40404"/>
-      <rect x="10" y="30" width="20" height="20" fill="#F5C6CB"/>
-      <rect x="30" y="30" width="20" height="20" fill="#E87979"/>
-      <rect x="50" y="30" width="20" height="20" fill="#C40404"/>
-      <rect x="70" y="30" width="20" height="20" fill="#C40404"/>
-      <rect x="90" y="30" width="10" height="10" fill="#C40404"/>
-      <rect x="10" y="50" width="20" height="20" fill="#E87979"/>
-      <rect x="30" y="50" width="20" height="20" fill="#C40404"/>
-      <rect x="50" y="50" width="20" height="20" fill="#C40404"/>
-      <rect x="70" y="50" width="20" height="20" fill="#D63333"/>
-      <rect x="20" y="70" width="20" height="10" fill="#D63333"/>
-      <rect x="40" y="70" width="20" height="10" fill="#C40404"/>
-      <rect x="60" y="70" width="20" height="10" fill="#C40404"/>
-      <rect x="30" y="80" width="20" height="10" fill="#C40404"/>
-      <rect x="50" y="80" width="20" height="10" fill="#C40404"/>
-      <rect x="40" y="90" width="20" height="10" fill="#C40404"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="150" height="150">
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5C6CB"/>
+      <stop offset="48%" stop-color="#E87979"/>
+      <stop offset="100%" stop-color="#C40404"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+  <g>
+    <path d="M75 126 C64 116 22 86 22 53 C22 25 55 16 75 41 C95 16 128 25 128 53 C128 86 86 116 75 126Z" fill="#C40404" opacity=".18" filter="url(#soft)"/>
+    <g>
+      <path d="M75 121 C64 111 25 83 25 53 C25 29 54 19 75 43 C96 19 125 29 125 53 C125 83 86 111 75 121Z" fill="url(#red)"/>
+      <path d="M39 51 C39 39 48 32 59 34" fill="none" stroke="#F8EBEB" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+      <path d="M39 63 C42 80 58 94 69 102" fill="none" stroke="#F8EBEB" stroke-width="2.5" stroke-linecap="round" opacity=".45"/>
     </g>
-    <animateTransform attributeName="transform" type="scale" values="1;1.07;1;0.96;1" keyTimes="0;0.18;0.36;0.52;1" dur="1.4s" repeatCount="indefinite" additive="sum"/>
+    <animateTransform attributeName="transform" type="scale" values="1;1.055;1;1.025;1" keyTimes="0;0.16;0.32;0.48;1" dur="1.25s" repeatCount="indefinite" additive="sum"/>
   </g>
 </svg>
